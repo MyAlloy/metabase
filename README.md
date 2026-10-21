@@ -7,3 +7,5 @@ This repo can be used to deploy [Metabase](https://metabase.com) on Render.
 See the guide at https://render.com/docs/deploy-metabase.
 
 If you need help, reach out at https://community.render.com.
+
+Update 10/21/2026
